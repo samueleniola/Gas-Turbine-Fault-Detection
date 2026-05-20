@@ -49,4 +49,3 @@ Traditional maintenance approaches:
 | `Oil Temperature` | Lubricant temp | °C | 100-125 | >130°C |
 | `Fault` | **Target variable** | binary | 0 (Normal) | 1 (Fault) |
 
-### Data Distribution
